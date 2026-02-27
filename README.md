@@ -98,5 +98,3 @@ SilentLoaderHunter/
 This repository is intended for defensive security research and educational purposes only.
 
 Do not use these techniques offensively.
-
-```
