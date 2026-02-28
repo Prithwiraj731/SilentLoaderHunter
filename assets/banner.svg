@@ -1,0 +1,37 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="320" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.05">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00ff88" stroke-width="1"/>
+    </pattern>
+    <rect width="1280" height="320" fill="url(#grid)"/>
+  </g>
+
+  <!-- Terminal style prompt -->
+  <text x="60" y="80" fill="#00ff88" font-family="Courier New, monospace" font-size="18">
+    C:\Security\&gt; Detect -Persistence
+  </text>
+
+  <!-- Main Title -->
+  <text x="60" y="170" fill="#00ff88" font-family="Courier New, monospace" font-size="48" font-weight="bold">
+    SilentLoaderHunter
+  </text>
+
+  <!-- Subtitle -->
+  <text x="60" y="220" fill="#cccccc" font-family="Courier New, monospace" font-size="20">
+    Detect • Analyze • Neutralize Windows Scheduled Task Persistence
+  </text>
+
+  <!-- Accent line -->
+  <rect x="60" y="240" width="500" height="3" fill="#00ff88"/>
+</svg>
