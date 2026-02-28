@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE)
 ![Status](https://img.shields.io/badge/status-Stable-brightgreen)
-
+![Security](https://img.shields.io/badge/Focus-Defensive%20Security-red)
 
 # SilentLoaderHunter
 
