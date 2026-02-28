@@ -1,3 +1,10 @@
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE)
+![Status](https://img.shields.io/badge/status-Stable-brightgreen)
+
+
 # SilentLoaderHunter
 
 SilentLoaderHunter is a defensive toolkit for detecting malicious Windows Scheduled Tasks used by silent PowerShell loaders and persistence-based malware.
