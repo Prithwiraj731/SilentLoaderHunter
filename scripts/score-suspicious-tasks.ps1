@@ -10,6 +10,9 @@ Assigns risk scores based on:
 - Remote URLs
 - IEX usage
 - Non-Microsoft path
+
+Run as Administrator: 
+.\scripts\score-suspicious-tasks.ps1
 #>
 
 Write-Host "SilentLoaderHunter - Suspicious Task Scoring" -ForegroundColor Cyan
